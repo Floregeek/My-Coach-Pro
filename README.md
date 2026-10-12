@@ -9,7 +9,7 @@ Application web de gestion pour les **salles de sport** et les **coachs sportifs
 
 | Page d'accueil | Espace coach | Espace client |
 |---|---|---|
-| ![Page d'accueil](images/page d'accueil.png) | ![Dashboard coach](images/dashboard coach.png) | ![Dashboard client](images/dash client.png) |
+| ![Page d'accueil](images/page_accueil.png) | ![Dashboard coach](images/dashboard_coach.png) | ![Dashboard client](images/dashboard_client.png) |
 
 ## Rôles utilisateurs
 
