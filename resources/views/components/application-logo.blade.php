@@ -1,0 +1,1 @@
+<span class="font-bold text-xl text-indigo-600 italic">My Coach Pro</span>
