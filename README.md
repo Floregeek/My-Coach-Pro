@@ -10,7 +10,6 @@ Application web de gestion pour les **salles de sport** et les **coachs sportifs
 | Page d'accueil | Espace coach | Espace client |
 |---|---|---|
 | ![Page d'accueil](images/page_accueil.png) | ![Dashboard coach](images/dashboard_coach.png) | ![Dashboard client](images/dashboard_client.png) |
-
 ## Rôles utilisateurs
 
 - **Gestionnaire de salle** : emploie des coachs et gère le planning de sa salle.
